@@ -1,5 +1,6 @@
 # Assignment-3-Regression-Analysis
 Diamond Beckom
+https://www.kaggle.com/datasets/jonavery/incomes-by-career-and-gender?resource=download
 
 For this assignment, I walked through a full regression analysis using a real dataset on income by occupation and gender. My goal was to see whether the proportion of women in an occupation had any relationship to the overall weekly income for that occupation. I went through the full process: importing the data, cleaning and preparing it, exploring the patterns (EDA), building a regression model, evaluating that model, and finally making predictions based on different gender compositions within occupations. Throughout the process, I tried to keep everything as simple and direct as possible, especially since the dataset needed a bit of cleaning before I could run any real analysis.
 
